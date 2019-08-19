@@ -1,0 +1,11 @@
+.margin {
+  margin: 10px;
+}
+.w300 {
+  width: 300px;
+}
+
+.w500 {
+  width: 500px;
+  display: inline-block;
+}
